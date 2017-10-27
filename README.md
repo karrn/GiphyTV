@@ -5,3 +5,7 @@ This is a JavaScript based app that displays 10 gifs sequentially from GIPHY bas
 APIs used
 -------------
   - [GIPHY API](https://developers.giphy.com/docs/)
+
+
+
+[View Demo](https://giphytv.herokuapp.com/)
